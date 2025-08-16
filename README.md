@@ -1,7 +1,6 @@
 # automation-workflow-project
 Automation project using n8n workflows to streamline tasks.
 
-# Automation Workflow Project
 # Introduction
 This project demonstrates my ability to design and implement **automation workflows** using **n8n**.  
 It showcases how repetitive tasks can be automated with minimal coding, improving efficiency and reliability.
@@ -21,7 +20,7 @@ It showcases how repetitive tasks can be automated with minimal coding, improvin
 - Watch Demo Video (https://drive.google.com/file/d/1aNaPlbresoOrWSvEiE-4g-HxoaxUi9gs/view?usp=drive_link)
 
 ## Certification
-I completed a certification in **n8n Automation** from **Simplilearn**.  
+I have also earned a certification in **n8n Automation**.  
 - View Certificate (https://drive.google.com/file/d/1sg-jpnJ4_7r695UKhyY0qAoOWMEC1P-J/view?usp=drive_link)
 
 ## Project Assets
